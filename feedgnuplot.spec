@@ -2,7 +2,7 @@
 # packaged, so we do not ship those here
 
 Name:           feedgnuplot
-Version:        1.38
+Version:        1.62
 Release:        1%{?dist}
 Summary:        Pipe-oriented frontend to Gnuplot
 BuildArch:      noarch
